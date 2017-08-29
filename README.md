@@ -16,7 +16,7 @@ This content is designed for audience with little to no Machine learning knowled
 [From R open & R Server to predictive analytics with Spark](https://www.edx.org/course/implementing-predictive-analytics-spark-microsoft-dat202-3x-1) (highly recommended).
 
 ### **Setting up R engines and IDE (authoring tool) on a local computer or a VM:**
-1.  [Download VS2015 community with R Tools for Visual Studio (RTVS)](https://www.visualstudio.com/vs/rtvs/) (two downloads VS and RTVS from one link).
+1.  [Download VS2015 community with R Tools for Visual Studio (RTVS)](https://www.visualstudio.com/vs/rtvs/) (two downloads VS and RTVS on the same page).
 
 2.  Set VS2015 using Data Science Settings to make it look and feel the way data scientists use R IDEs. 
 2.1 After the installation of RTVS on VS, go to the R Tools tab --> Data Science Settings. Just click on it to activate the setting of VS.
